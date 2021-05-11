@@ -1,8 +1,8 @@
-- 👋 Hi, I’m (Daniel Nikolaev) @Dah-phd. I am PhD in finance but reacently I've been learning to code.
-- 👀 I’m interested in Python both statistical line of work (Numpy, sklearn, pandas), AI (tensorflow, keras) and aslo a bit of web development (django). Lately, I have started working with JS as well mostly in realtion with django.
-- 🌱 I’m still currently learning Python and vanilla JS, but am planning to expant do React.
-- 💞️ I’m looking to collaborate on python projects. And also looking forward for my first dev/data science job.
-- 📫 How to reach me daniel_nikolaev@outlook.com // webside goes here.
+- 👋 Hi, I’m (Daniel Nikolaev) @Dah-phd. I am a self-thought python developer with Ph.D. in finance.
+- 👀 I’m interested in Python in both scientific aspects (NumPy, SKlearn, Pandas), AI (TensorFlow, Keras), and also as a back-end web development (Django). Along the way, I have also learned JavaScript, mostly vanilla with little jQuery.
+- 🌱 I’m currently looking into Rust as a way to extend both python and JS, also it seems solid as a high-performance language.
+- 💞️ I’m looking to collaborate on python projects. And also looking forward to my first web-dev / data science work.
+- 📫 How to reach me daniel_nikolaev@outlook.com // https://www.daniel-py.net/.
 
 <!---
 Dah-phd/Dah-phd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
