@@ -1,14 +1,16 @@
 # Hi, I’m Daniel Nikolaev. 
 * I am a self-thought Python/JavaScript (I preffer TypeScript) developer with Ph.D. in finance.
 # Current occupation: 
-- I have professional experience in automating accounting processes using Python scripts and notebooks, with heavy focus on Pandas and NumPy. My current working project is a microservice related to accounting and reporting SaaS, that includes quite a few components from custom ORM, to XML based workflows.
-- The structure I am currently working can be classiefied as Agile, although the release schedule is far from standard. 
+* I have professional experience in automating accounting processes using Python scripts and notebooks, with a heavy focus on Pandas and NumPy. My current working project is a microservice related to accounting and reporting SaaS, that includes quite a few components from custom ORM, to XML-based workflows.
+* The structure I am currently working on can be classified as Agile, although the release schedule is far from standard.
 # Interests:
-- I’m have an interest in AI (TensorFlow, Keras), and also as a back-end web development (Django) and general web-development.
+* general interest in [Rust](https://www.rust-lang.org/) and low-level programming.
+* scientific interest in AI ( mostly related to TensorFlow, Keras).
+* web-development back-end (Django / Rocket) and frontend (Solid-JS, with future plans to test Rust-Yew).
 # Personal project:
-- I’m currently working on a few personal projects using [Rust](https://www.rust-lang.org/). I have started have
+* My latest personal projects is using Rust and [Rocket](https://rocket.rs/) framework. The idea behind it is to create a end-to-end web application allowing peer-to-peer or AI games of [Quoridor](https://en.wikipedia.org/wiki/Quoridor). The front-end is built using TypeScript with Solid-JS as a framework. The goal of the project is to get a better understanding of Rust as a back-end language and component-based frontend.
 # Future plans:
-- I’m looking forward to my first professional Rust project.
+* I’m looking forward to my first professional Rust project.
 # How to reach me: 
   * daniel_nikolaev@outlook.com
   * [daniel-py.net](https://www.daniel-py.net/contact/)
