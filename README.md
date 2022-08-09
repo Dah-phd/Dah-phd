@@ -1,5 +1,5 @@
 # Hi, I’m Daniel Nikolaev. 
-* I am a self-thought Python/JavaScript (I preffer TypeScript) developer with Ph.D. in finance.
+* I am a self-thought Python/TypeScript/Rust developer with Ph.D. in finance.
 # Current occupation: 
 * I have professional experience in automating accounting processes using Python scripts and notebooks, with a heavy focus on Pandas and NumPy. My current working project is a microservice related to accounting and reporting SaaS, that includes quite a few components from custom ORM, to XML-based workflows.
 * The structure I am currently working on can be classified as Agile, although the release schedule is far from standard.
