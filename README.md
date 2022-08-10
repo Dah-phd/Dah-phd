@@ -5,13 +5,13 @@
 * The structure I am currently working on can be classified as Agile, although the release schedule is far from standard.
 # Interests:
 * general interest in [Rust](https://www.rust-lang.org/) and low-level programming;
-* web-development back-end (Django / Rocket) and frontend (Solid-JS, with future plans to test Rust-Yew);
+* web-development back-end (Django / Rocket) and front-end (Solid-JS, with future plans to test Rust-Yew);
 * scientific interest in AI ( mostly related to TensorFlow, Keras).
 # Latest personal project:
 * My latest personal projects is using Rust and [Rocket](https://rocket.rs/) framework. The idea behind it is to create a end-to-end web application allowing peer-to-peer or AI games of [Quoridor](https://en.wikipedia.org/wiki/Quoridor). The front-end is built using TypeScript with Solid-JS as a framework. The goal of the project is to get a better understanding of Rust as a back-end language and component-based frontend.
 * Related to that I had to implement path-finding algorithm (A*) that I deployed as open-source [Rust crate](https://crates.io/crates/a-star_traitbased)
 * [Back-end source code.](https://github.com/Dah-phd/corridor_api)
-* [Frontend source code.](https://github.com/Dah-phd/corridor_frontend)
+* [Front-end source code.](https://github.com/Dah-phd/corridor_frontend)
 # Future plans:
 * I’m looking forward to my first professional Rust project.
 # How to reach me: 
